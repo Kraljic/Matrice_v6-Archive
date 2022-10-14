@@ -1,0 +1,33 @@
+c:\users\marko\documents\visual studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.csprojResolveAssemblyReference.cache
+c:\users\marko\documents\visual studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.Form1.resources
+c:\users\marko\documents\visual studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.csproj.GenerateResource.Cache
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\bin\Debug\Matrice_v3.exe.config
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v3.exe
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v3.pdb
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\bin\Debug\Matrice_v3.exe
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\bin\Debug\Matrice_v3.pdb
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.csprojResolveAssemblyReference.cache
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.Form1.resources
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.Form2.resources
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.Properties.Resources.resources
+C:\Users\Android\Desktop\Matrice_v2\Matrice_v2\obj\Debug\Matrice_v2.csproj.GenerateResource.Cache
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice.Properties.Resources.resources
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\bin\Debug\Matrice - Računalna grafika.exe.config
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\bin\Debug\Matrice - Računalna grafika.exe
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\bin\Debug\Matrice - Računalna grafika.pdb
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice - Računalna grafika.exe
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v2\Matrice_v2\obj\Debug\Matrice - Računalna grafika.pdb
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\bin\Debug\Matrice - Računalna grafika.exe.config
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\bin\Debug\Matrice - Računalna grafika.exe
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\bin\Debug\Matrice - Računalna grafika.pdb
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice_v2.csprojResolveAssemblyReference.cache
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice_v2.Form1.resources
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice.Properties.Resources.resources
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice_v2.csproj.GenerateResource.Cache
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice - Računalna grafika.exe
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice - Računalna grafika.pdb
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\bin\Debug\en\Matrice - Računalna grafika.resources.dll
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\Matrice_v2.Form1.en.resources
+C:\Users\marko\Documents\Visual Studio 2015\Projects\Matrice_v6 - Hr\Matrice_v2\obj\Debug\en\Matrice - Računalna grafika.resources.dll
